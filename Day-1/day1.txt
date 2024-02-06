@@ -1,0 +1,18 @@
+Q) What is machine learning?
+
+Ans. Machine learning is that field of computer science in which we trains the computer without doing any programming. 
+
+Evolved from `pattern recognition` and `computational learning theory` from AI.
+
+
+
+ History of ML
+
+- In 1764, `Thomas bayes` started this new technology by giving his `foundatitions on statistics`
+- In 1842, `Ada Lovelace` gave his `foundations on algorithm`.
+- In 1847, `George Boole` gave `Boolean Logic`.
+- In 1936, `Alan Turing` proposed a machine that can learn.
+- In 1952, `Arthur Samuel` created the first computer programme at `IBM.`
+- In 1959, `MADALINE` - the first `artificial neural networ`k was invented.
+- In 2006, `Geoffrey Hinton` invents the term `Deep Learning`.
+- In 2016, `AlphaGo` was the first machine which defeated the human player in the famous game `GO`.
